@@ -1,4 +1,4 @@
-# 2021.8.1 TIL (Automation using python)
+# 2021.8.1 TIL (1.Automation using python)
 
 ### Python - 파일 입출력
 
@@ -82,7 +82,7 @@ iter_cols( ) 같은 경우 데이터를 조회할 때 행 전체를 거쳐서 �
 ```
 
 
-###Python - 이메일 발송 원리
+### Python - 이메일 발송 원리
 ```
 메일 프로그램에서 친숙한 설정 정보
 - SMTP 서버 주소
