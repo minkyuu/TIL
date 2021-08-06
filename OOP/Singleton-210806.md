@@ -13,7 +13,7 @@
 
 ### Q. 그렇다면 이 Singleton Pattern을 왜 사용하는 것일까?
 
-###2. Singleton Pattern의 장단점
+### -> Singleton Pattern의 장단점을 살펴보자
 ```
 - 장점
 
@@ -37,7 +37,7 @@
 
 ---
 
-### 3. Singleton Pattern의 활용
+### 2. Singleton Pattern의 활용
 
 - 하드웨어 인터페이스 접근 : 하드웨어 기기를 사용 시 여러 사용자의 접근을 막는다. (교착상태 발생)
 
@@ -50,7 +50,7 @@
 
 ---
 
-### 4. SOLID 원칙을 Singleton Pattern에 적용해보자
+### 3. SOLID 원칙을 Singleton Pattern에 적용해보자
 ```
 - Single Responsibility Principle (단일 책임 원칙)
  : 구현과 사용 책임이 하나의 클래스에 몰려있기 때문에 단일 책임 원칙을 위배
