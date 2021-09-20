@@ -1,9 +1,12 @@
 ### 2021.09.20. TIL (Collection Framework)
 
+<br>
+
 ## 컬렉션 (Collection)
 
 >: 여러 객체(데이터)를 모아 놓은 것을 의미
 
+<br>
 
 ## 프레임워크 (Framework)
 
@@ -11,7 +14,7 @@
 
 >: 표준화, 정형화된 체계적인 프로그래밍 방식
 
- 
+<br>
 
 ## 컬렉션 프레임워크 (Collection Framework)
 
@@ -30,18 +33,18 @@
 
 1. List
 
-* 순서가 있는 데이터의 집합, 데이터 중복 허용
+>: 순서가 있는 데이터의 집합, 데이터 중복 허용
 
-* 구현 클래스 : ArrayList, LinkedList, Stack, Vector 등
+>: 구현 클래스 -> ArrayList, LinkedList, Stack, Vector 등
 
 2. Set
 
-* 순서를 유지하지 않는 데이터의 집합, 데이터 중복 허용하지 않음
+>: 순서를 유지하지 않는 데이터의 집합, 데이터 중복 허용하지 않음
 
-* 구현 클래스 : HashSet, TreeSet 등
+>: 구현 클래스 -> HashSet, TreeSet 등
 
 3. Map
 
-* Key-Value의 쌍으로 이루어진 데이터의 집합
+>: Key-Value의 쌍으로 이루어진 데이터의 집합
 
-* 구현 클래스 : HashMap, TreeMap, Hashtable, Properties 등
+>: 구현 클래스 -> HashMap, TreeMap, Hashtable, Properties 등
