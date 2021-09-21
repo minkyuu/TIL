@@ -1,8 +1,27 @@
-# 2021.8.10. TIL 
+### 2021.8.10. TIL (update 2021.09.21)
 
-### IntelliJ 단축키
+## 자주 찾는 단축키 정리
 
----
+- 구문 완성
+>: shift + ctrl + enter
+
+- 코드 아래에다가 복사
+>: ctrl + d
+
+- Quick definition
+>: ctrl + shift + i
+
+
+- Quick Document
+>: ctrl + q
+
+- Live template 조회
+>: ctrl + j
+
+<br>
+<br>
+
+## IntelliJ 단축키
 
 - 프로젝트 창 포커스 
 >: Alt + 1
