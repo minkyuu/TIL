@@ -18,6 +18,9 @@
 - Live template 조회
 >: ctrl + j
 
+- 테스트 코드 생성
+>: alt + enter
+
 <br>
 <br>
 
