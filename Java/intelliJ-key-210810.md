@@ -21,6 +21,9 @@
 - 테스트 코드 생성
 >: alt + enter
 
+- 테스트 코드 이동
+>: ctrl + shift + t
+
 <br>
 <br>
 
