@@ -8,6 +8,9 @@
 - 코드 아래에다가 복사
 >: ctrl + d
 
+- 코드 라인 1줄 삭제
+>: ctrl + y
+
 - Quick definition
 >: ctrl + shift + i
 
