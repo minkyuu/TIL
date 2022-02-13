@@ -161,7 +161,7 @@
 
 - 라인 삭제
 
-> command + y
+> command + backspace
 
 - 파라미터 정보
 
