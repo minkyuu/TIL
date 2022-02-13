@@ -1,4 +1,4 @@
-## IntelliJ Key (Mac OS)
+## IntelliJ Key (Mac OS) (updated by 2022.02.13)
 
 - 프로젝트 창 포커스
 
